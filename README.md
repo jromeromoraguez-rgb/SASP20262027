@@ -1,6 +1,8 @@
 # SASP20262027
 
-# Libro https://es.scribd.com/document/795246480/Sostenibilidad-Aplicada-Al-Sistema-Productivo
+### Libro de referencia
+
+[Sostenibilidad Aplicada al Sistema Productivo](https://es.scribd.com/document/795246480/Sostenibilidad-Aplicada-Al-Sistema-Productivo)
 
 Con este proyecto, iras completando los conocimientos adquiridos en las unidades estudiadas y,
 a través de la realización de una serie de tareas elaborarás un plan de sostenibilidad para una empresa encuadrada en tu sector profesional
